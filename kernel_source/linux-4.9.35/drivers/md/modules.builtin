@@ -1,0 +1,12 @@
+kernel/drivers/md/md-mod.ko
+kernel/drivers/md/dm-mod.ko
+kernel/drivers/md/dm-bufio.ko
+kernel/drivers/md/dm-bio-prison.ko
+kernel/drivers/md/dm-mirror.ko
+kernel/drivers/md/dm-log.ko
+kernel/drivers/md/dm-region-hash.ko
+kernel/drivers/md/dm-zero.ko
+kernel/drivers/md/dm-cache.ko
+kernel/drivers/md/dm-cache-smq.ko
+kernel/drivers/md/dm-cache-cleaner.ko
+kernel/drivers/md/persistent-data/dm-persistent-data.ko
